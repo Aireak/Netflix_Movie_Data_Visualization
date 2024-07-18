@@ -6,7 +6,8 @@ This project involves analyzing a dataset of Netflix shows and movies to gain in
 ## Files
 1. `Netflix_movie_data_visualization.ipynb` script
 2. `Netflix_movie_data_visualization.R` script
-3. 
+3. 'Netflix_data.csv
+   
 ## Setup
 1. Rename the dataset to "Netflix_shows_movies.csv".
 2. Run the `Netflix_movie_data_visualization.ipynb` script to perform data cleaning, exploration, and visualization.
